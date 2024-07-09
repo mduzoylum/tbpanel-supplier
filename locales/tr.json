@@ -1,0 +1,8 @@
+{
+  "auth" : {
+    "email" : "E-posta",
+    "password" : "Şifre",
+    "login" : "Giriş Yap",
+    "forgotPassword" : "Şifremi Unuttum"
+  }
+}
